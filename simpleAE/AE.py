@@ -92,3 +92,5 @@ plt.show()
 
 
 print('Finished Training')
+
+print('Save Model')
