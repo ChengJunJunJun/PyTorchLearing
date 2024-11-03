@@ -89,3 +89,6 @@ y = loss_list
 
 plt.plot(x, y)
 plt.show()
+
+
+print('Finished Training')
