@@ -92,3 +92,5 @@ plt.show()
 
 
 print('Finished Training')
+
+torch.save(net.state_dict(), './simpleAE.pth')
